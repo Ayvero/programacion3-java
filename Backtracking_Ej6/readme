@@ -1,0 +1,23 @@
+Consigna del ejercicio:
+
+Ejercicio 6. Caballo de Atila. Por donde pisa el caballo de Atila jam�s
+  vuelve a crecer el pasto. El caballo fue directamente hacia el jard�n de n x
+ n casillas. Empez� su paseo por una casilla cualquiera y volvi� a ella, es
+ decir hizo un recorrido cerrado. No visit� dos veces una misma casilla, se
+ movi� de una casilla a otra vecina en forma horizontal o vertical, pero nunca
+ en diagonal. Por donde pis� el caballo, el pasto jam�s volvi� a crecer. Luego
+ de terminado el recorrido en algunas casillas todav�a hab�a pasto (se�al de
+ que en ellas no hab�a estado el caballo). Escriba un algoritmo que deduzca el
+ recorrido completo que hizo el caballo.
+-------------------------------------------------------------------------------
+
+Ejercicio 6: El Caballo de Atila
+Descripción
+Este ejercicio consiste en deducir el recorrido completo que realizó el caballo de Atila en un jardín de n x n casillas. El caballo comenzó en una casilla, realizó un recorrido cerrado sin pisar dos veces la misma casilla, y se movió solo en direcciones horizontal o vertical. El pasto no volvió a crecer en las casillas que el caballo visitó.
+
+¿Qué Aprendí?
+Aprendí a utilizar técnicas de backtracking y búsqueda en profundidad (DFS) para resolver problemas de recorrido en matrices, manteniendo el seguimiento de las posiciones visitadas y deduciendo trayectorias posibles.
+
+¿Para Qué Sirve?
+Este ejercicio es útil en problemas de recorrido y trazado de rutas en gráficos y matrices, aplicable en áreas como robótica, juegos de video, y optimización de trayectorias en sistemas logísticos.
+ 
