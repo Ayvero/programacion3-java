@@ -12,7 +12,7 @@ import java.util.List;
  * una asignaci�n de tareas a procesadores de manera de minimizar el tiempo de
  * ejecuci�n del total de tareas.
  * 
- * @author Gentil Ricardo
+ * 
  *
  */
 
