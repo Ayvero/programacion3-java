@@ -12,7 +12,7 @@ import java.util.List;
  * representar el problema mediante un grafo dirigido, donde cada nodo es una
  * habitaci�n, y cada puerta es un arco dirigido hacia otra habitaci�n.
  * 
- * @author Gentil Ricardo
+ * 
  *
  */
 
