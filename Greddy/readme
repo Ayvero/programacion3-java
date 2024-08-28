@@ -1,0 +1,20 @@
+Consigna del ejercicio:
+Ejercicio 1 Cambio de monedas.
+	  
+	  Dado un conjunto C de N tipos de monedas con un n�mero ilimitado de
+	  ejemplares de cada tipo, se requiere formar, si se puede, una cantidad M
+	  empleando el m�nimo n�mero de ellas.
+	  
+	  Por ejemplo, un cajero autom�tico dispone de billetes de distintos valores:
+	  100$, 25$, 10$, 5$ y 1$, si se tiene que pagar 289$, la mejor soluci�n
+	  consiste en dar 10 billetes: 2 de 100$, 3 de 25$, 1 de 10$ y 4 de 1$.
+	 -----------------------------------------------------------------------
+Ejercicio 1: Cambio de Monedas
+Descripción
+En este ejercicio, se debe encontrar la forma de hacer una cantidad M utilizando el menor número posible de monedas, dado un conjunto C de N tipos de monedas con un suministro ilimitado de cada tipo.
+
+¿Qué Aprendí?
+Aprendí a implementar algoritmos de programación dinámica para resolver el problema de cambio de monedas. Este enfoque ayuda a determinar la cantidad mínima de monedas necesarias para sumar una cantidad específica, optimizando el uso de recursos.
+
+¿Para Qué Sirve?
+Este ejercicio es relevante para problemas de optimización en finanzas y sistemas de pagos, como en cajeros automáticos y sistemas de cambio de monedas. También se aplica en la teoría de algoritmos y la solución de problemas de recursos limitados en la programación.
