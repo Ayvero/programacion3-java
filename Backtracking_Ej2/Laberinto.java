@@ -15,7 +15,7 @@ import java.util.List;
  * objetos, donde cada objeto tiene el valor natural, y cuatro booleanos, uno
  * para cada direcci�n a la que se permite ir desde all�.
  * 
- * @author Gentil Ricardo
+ * 
  *
  */
 public class Laberinto {
