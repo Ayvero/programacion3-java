@@ -1,0 +1,23 @@
+Consigna del Ejercicio:
+ Ejercicio 5. Asignaci�n de tareas a procesadores. Se tienen m procesadores
+  id�nticos y n tareas con un tiempo de ejecuci�n dado. Se requiere encontrar
+  una asignaci�n de tareas a procesadores de manera de minimizar el tiempo de
+  ejecuci�n del total de tareas.
+  
+ --------------------------------------------------------------------------
+Ejercicio 5: Asignación de Tareas a Procesadores
+Descripción
+En este ejercicio, se tienen m procesadores idénticos y n tareas, cada una con un tiempo de ejecución específico. El objetivo es encontrar una asignación de tareas a los procesadores que minimice el tiempo total de ejecución, es decir, el tiempo que el procesador con la mayor carga tarda en completar todas sus tareas.
+
+¿Qué Aprendí?
+Aprendí a aplicar técnicas de optimización y programación dinámica para resolver problemas de asignación de recursos. Implementé algoritmos para balancear la carga entre procesadores y minimizar el tiempo total de ejecución.
+
+¿Para Qué Sirve?
+Este ejercicio es útil para problemas de planificación y asignación en sistemas de computación y procesamiento. Tiene aplicaciones en la optimización de recursos en sistemas distribuidos, gestión de trabajos en clústeres y programación de tareas en sistemas operativos.
+
+
+
+
+
+
+
