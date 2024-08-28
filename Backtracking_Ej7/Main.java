@@ -12,7 +12,7 @@ import java.util.List;
  * 1 y un cierto k (con k>n*n), de manera tal que la suma de las columnas y de
  * las filas sea igual a S.
  * 
- * @author Gentil Ricardo
+ * 
  *
  */
 public class Main {
