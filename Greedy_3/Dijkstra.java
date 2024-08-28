@@ -13,7 +13,7 @@ import java.util.List;
  * par�metro hacia el resto de los v�rtices. Una vez realizado, imprima el
  * camino m�s corto que se debe seguir desde el or�gen hacia cada v�rtice.
  * 
- * @author Gentil Ricardo
+ *
  *
  */
 public class Dijkstra {
