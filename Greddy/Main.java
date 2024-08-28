@@ -16,7 +16,7 @@ import java.util.List;
  * 100$, 25$, 10$, 5$ y 1$, si se tiene que pagar 289$, la mejor soluci�n
  * consiste en dar 10 billetes: 2 de 100$, 3 de 25$, 1 de 10$ y 4 de 1$.
  * 
- * @author Gentil Ricardo
+ * 
  *
  */
 public class Main {
