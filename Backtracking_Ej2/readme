@@ -1,0 +1,32 @@
+Consigna del ejercicio:
+
+
+ Ejercicio 2. Dado un laberinto consistente en una matriz cuadrada que tiene
+  en cada posici�n un valor natural y cuatro valores booleanos, indicando estos
+  �ltimos si desde esa casilla se puede ir al norte, este, sur y oeste,
+  encontrar un camino de longitud m�nima entre dos casillas dadas, siendo la
+  longitud de un camino la suma de los valores naturales de las casillas por
+  las que pasa. Idea: podr�a representarse el laberinto como una matriz, de
+  objetos, donde cada objeto tiene el valor natural, y cuatro booleanos, uno
+  para cada direcci�n a la que se permite ir desde all�.
+ ---------------------------------------------------------------------------------
+ Ejercicio 2: Resolución de un Laberinto con Caminos de Longitud Mínima
+Descripción del Problema
+En este ejercicio, se nos presenta un laberinto representado como una matriz cuadrada, donde cada posición contiene un valor natural y cuatro valores booleanos. Estos valores booleanos indican si es posible moverse en las direcciones norte, este, sur y oeste desde esa casilla. El objetivo del ejercicio es encontrar un camino de longitud mínima entre dos casillas dadas, donde la longitud del camino se define como la suma de los valores naturales de las casillas por las que se pasa.
+
+¿Qué Aprendí?
+Este ejercicio me permitió profundizar en varios conceptos fundamentales de la programación en Java y en la resolución de problemas algorítmicos:
+
+Estructuras de Datos: Aprendí a utilizar matrices y objetos en conjunto para modelar problemas complejos. En este caso, cada casilla del laberinto se modela como un objeto que encapsula tanto el valor natural de la casilla como los posibles movimientos (norte, sur, este, oeste).
+
+Algoritmos de Búsqueda: Para resolver el problema de encontrar el camino de longitud mínima, investigué y apliqué algoritmos de búsqueda en grafos, como el algoritmo de Dijkstra o el A*. Estos algoritmos me permitieron encontrar la ruta más corta en términos de la suma de los valores naturales de las casillas.
+
+Optimización: La necesidad de minimizar la suma de los valores naturales a lo largo del camino me llevó a pensar en la optimización del recorrido. Esto implicó no solo encontrar un camino válido, sino también asegurarme de que fuera el más eficiente en cuanto a la suma de los valores.
+
+Modelado de Problemas del Mundo Real: Este ejercicio me enseñó a traducir un problema del mundo real (navegar a través de un laberinto) en un problema computacional, utilizando estructuras de datos y algoritmos apropiados.
+
+¿Para Qué Sirve?
+La resolución de este ejercicio es un ejemplo práctico de cómo los conceptos de algoritmos de búsqueda y estructuras de datos pueden aplicarse a problemas reales. El tipo de problema resuelto aquí es relevante en diversos campos como la inteligencia artificial (especialmente en la planificación de rutas y navegación autónoma), la robótica, y la optimización de rutas en logística.
+
+Además, este ejercicio destaca mis habilidades en la resolución de problemas complejos y en la aplicación de teorías algorítmicas a problemas prácticos, lo que es esencial en el desarrollo de software, especialmente en roles que requieren optimización y eficiencia en el manejo de datos.
+
