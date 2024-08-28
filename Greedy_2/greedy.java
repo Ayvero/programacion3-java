@@ -13,7 +13,7 @@ package Greedy_2;
 	 * problema consiste en encontrar la cantidad m�xima de actividades compatibles
 	 * entre s�.
 	 * 
-	 * @author Gentil Ricardo
+	 * 
 	 *
 	 */
 	public class greedy {
