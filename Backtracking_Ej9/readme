@@ -1,0 +1,18 @@
+Consigna del Ejercicio:
+ Ejercicio 9. Dado un tablero de 4 x 4, en cuyas casillas se encuentran
+  desordenados los n�meros enteros del 1 al 15 y una casilla desocupada en una
+  posici�n inicial dada, determinar una secuencia de pasos tal intercambiando
+  n�meros contiguos (en horizontal y en vertical) con la casilla desocupada,
+  los n�meros en el tablero queden ordenados (como muestra la figura) y la
+  casilla desocupada quede en la posici�n 4,4.
+
+-------------------------------------------------------------------------------
+Ejercicio 9: Ordenar Tablero 4x4
+Descripción
+El objetivo es resolver un problema de ordenamiento en un tablero de 4x4, donde los números enteros del 1 al 15 están desordenados y hay una casilla desocupada. Se debe determinar una secuencia de pasos para intercambiar números contiguos (en horizontal y vertical) con la casilla desocupada, de manera que los números queden ordenados y la casilla desocupada quede en la posición 4,4.
+
+¿Qué Aprendí?
+Aprendí a aplicar algoritmos de búsqueda y resolución de puzzles, como el algoritmo de A* o búsqueda en anchura (BFS), para encontrar soluciones a problemas de reordenamiento en tableros. También mejoré en la gestión de estados y movimientos en un espacio de búsqueda.
+
+¿Para Qué Sirve?
+Este ejercicio es relevante para problemas de resolución de puzzles y juegos, así como para la optimización de algoritmos en búsqueda y planificación. También tiene aplicaciones en inteligencia artificial para la resolución de problemas de estado y transición.
