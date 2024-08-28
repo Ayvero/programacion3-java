@@ -1,0 +1,17 @@
+Consigna del ejercicio:
+
+Ejercicio 3. Suma de subconjuntos. Dados n n�meros positivos distintos, se
+  desea encontrar todas las combinaciones de esos n�meros tal que la suma sea
+  igual a M.
+  
+ ----------------------------------------------------------------------------
+
+Ejercicio 3: Suma de Subconjuntos
+Descripción
+En este ejercicio, se busca encontrar todas las combinaciones posibles de un conjunto de n números positivos distintos, de manera que la suma de los elementos de cada combinación sea igual a un valor dado M.
+
+¿Qué Aprendí?
+Aprendí a implementar algoritmos de búsqueda exhaustiva (backtracking) en Java para explorar todas las posibles combinaciones de un conjunto de números. También entendí cómo manejar condiciones de parada y optimización para reducir el tiempo de ejecución del algoritmo.
+
+¿Para Qué Sirve?
+Este ejercicio es útil para problemas de combinatoria y optimización, como la resolución de problemas de particionamiento y selección en programación matemática y análisis de datos.
