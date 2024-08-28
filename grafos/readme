@@ -1,0 +1,18 @@
+Consigna del ejercicio:
+
+ Ejercicio 2. Implemente los recorridos Depth-First-Search y
+ Breadth-First-Search.
+
+
+
+-------------------------------------------------------------
+Ejercicio 2: Implementación de Algoritmos de Recorrido
+Descripción
+Implementar los algoritmos de recorrido en grafos Depth-First Search (DFS) y Breadth-First Search (BFS). Estos algoritmos permiten explorar todos los nodos de un grafo siguiendo diferentes estrategias: DFS explora tan profundo como sea posible antes de retroceder, mientras que BFS explora los vecinos más cercanos primero.
+
+¿Qué Aprendí?
+Aprendí a implementar algoritmos de búsqueda en grafos, entendiendo las diferencias entre exploración en profundidad y en anchura. Implementé ambos algoritmos para recorrer y analizar grafos, gestionando estructuras auxiliares como pilas para DFS y colas para BFS.
+
+¿Para Qué Sirve?
+Estos algoritmos son fundamentales para la exploración y análisis de grafos, con aplicaciones en la resolución de problemas de conectividad, búsqueda de caminos, y en la optimización de redes.
+
