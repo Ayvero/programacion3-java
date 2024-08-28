@@ -1,0 +1,23 @@
+Consigna del ejercicio:
+Ejercicio 8. Colocar un entero positivo (menor que un cierto valor entero k
+  dado) en cada casilla de una pir�mide de base B (valor entero dado) de modo
+  que cada n�mero sea igual a la suma de las casillas sobre las que est�
+  apoyado. Los n�meros de todas las casillas deben ser diferentes.
+
+-------------------------------------------------------------------------------
+Ejercicio 8: Pirámide de Números
+Descripción
+En este ejercicio, se debe colocar un entero positivo (menor que un valor entero k dado) en cada casilla de una pirámide con base B (valor entero dado). Cada número debe ser igual a la suma de los números en las casillas sobre las que está apoyado, y todos los números deben ser diferentes.
+
+¿Qué Aprendí?
+Aprendí a resolver problemas de colocación y sumas en estructuras piramidales, aplicando técnicas de programación combinatoria y verificación de condiciones. Este ejercicio me ayudó a entender cómo manejar restricciones y optimizar soluciones en estructuras no lineales.
+
+¿Para Qué Sirve?
+Este ejercicio es útil para problemas de optimización en estructuras jerárquicas, planificación de recursos y diseño de algoritmos para problemas complejos en estructuras de datos no lineales.
+
+
+
+
+
+
+
