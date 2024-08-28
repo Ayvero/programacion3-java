@@ -1,0 +1,15 @@
+Consigna del ejercicio:
+Ejercicio 6 Problema del viajante. Dado un grafo ponderado de ciudades
+ conectadas todas con todas, implemente un algoritmo que brinde una
+ aproximaci�n al problema del viajante
+
+------------------------------------------------------------------
+Ejercicio 6: Problema del Viajante
+Descripción
+El problema del viajante consiste en encontrar el camino más corto que permita a un viajante visitar todas las ciudades en un grafo ponderado, regresando a la ciudad de origen. Dado un grafo donde todas las ciudades están conectadas entre sí (grafo completo), se debe implementar un algoritmo para encontrar una solución aproximada al problema del viajante.
+
+¿Qué Aprendí?
+Aprendí a aplicar técnicas de aproximación y heurísticas para resolver el problema del viajante, dado que encontrar la solución óptima puede ser computacionalmente intractable para grandes instancias. Implementé algoritmos aproximados como el algoritmo del vecino más cercano, o el algoritmo de inserción más barato para generar una solución cercana a la óptima.
+
+¿Para Qué Sirve?
+Este ejercicio es útil para problemas de optimización en logística y planificación de rutas, como en la programación de rutas de entrega, planificación de circuitos en redes y diseño de itinerarios en sistemas de transporte.
