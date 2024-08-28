@@ -1,0 +1,25 @@
+Consigna del ejercicio:
+ Ejercicio 4 Algoritmo de Dijkstra. Dado un grafo con pesos no negativos,
+  implemente el algoritmo de Dijkstra para determinar el array de distancias y
+  de predecesores en el camino m�s corto, desde un v�rtice or�gen dado como
+  par�metro hacia el resto de los v�rtices. Una vez realizado, imprima el
+  camino m�s corto que se debe seguir desde el or�gen hacia cada v�rtice.
+-------------------------------------------------------------
+Ejercicio 4: Algoritmo de Dijkstra
+Descripción
+El objetivo de este ejercicio es implementar el algoritmo de Dijkstra para encontrar el camino más corto en un grafo con pesos no negativos. Dado un vértice de origen, el algoritmo calcula el array de distancias mínimas desde el origen a cada uno de los otros vértices y también determina los predecesores en el camino más corto. Luego, se debe imprimir el camino más corto desde el origen hacia cada vértice.
+
+¿Qué Aprendí?
+Aprendí a aplicar el algoritmo de Dijkstra, que es fundamental para la búsqueda de caminos más cortos en grafos con pesos no negativos. Implementé la actualización de distancias y el seguimiento de predecesores para reconstruir el camino más corto.
+
+¿Para Qué Sirve?
+Este ejercicio es esencial para problemas de navegación y optimización en redes y sistemas de rutas, como en la planificación de redes de comunicación, sistemas de navegación GPS, y optimización de rutas en logística y transporte.
+
+
+
+
+
+
+
+
+
