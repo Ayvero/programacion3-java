@@ -1,0 +1,15 @@
+Consigna del ejercicio:
+ Ejercicio 4. Partici�n de conjunto. Dado un conjunto de n enteros se desea
+  encontrar, si existe, una partici�n en dos subconjuntos disjuntos, tal que la
+  suma de sus elementos sea la misma.
+
+------------------------------------------------------------------------------
+Ejercicio 4: Partición de Conjunto
+Descripción
+El objetivo de este ejercicio es determinar si es posible dividir un conjunto de n enteros en dos subconjuntos disjuntos, de manera que la suma de los elementos en ambos subconjuntos sea igual.
+
+¿Qué Aprendí?
+Aprendí a implementar técnicas de programación dinámica para resolver problemas de partición y equilibrio. También profundicé en la comprensión de cómo manejar y optimizar la búsqueda de soluciones en problemas de conjuntos.
+
+¿Para Qué Sirve?
+Este ejercicio es relevante en problemas de balanceo de cargas, distribución equitativa de recursos, y otras aplicaciones en optimización y análisis combinatorio.
