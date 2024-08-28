@@ -1,0 +1,16 @@
+Consigna del ejercicio:
+Ejercicio 7. Tablero m�gico. Dado un tablero de tama�o n x n, construir un
+  algoritmo que ubique (si es posible) n*n n�meros naturales diferentes, entre
+ 1 y un cierto k (con k>n*n), de manera tal que la suma de las columnas y de
+ las filas sea igual a S.
+
+-----------------------------------------------------------------------------------
+Ejercicio 7: Tablero Mágico
+Descripción
+El objetivo de este ejercicio es construir un algoritmo para ubicar n*n números naturales distintos, entre 1 y un valor k (con k > n*n), en un tablero de tamaño n x n. La condición es que la suma de los números en cada fila y cada columna debe ser igual a un valor específico S.
+
+¿Qué Aprendí?
+Aprendí a aplicar técnicas de búsqueda y programación combinatoria para resolver problemas de distribución y equilibrio en matrices. Implementé algoritmos que verifican las condiciones de suma y aseguran que se cumplan los requisitos del problema.
+
+¿Para Qué Sirve?
+Este ejercicio es relevante para problemas de diseño de tableros y asignación de recursos, con aplicaciones en áreas como juegos de estrategia, optimización de cuadrículas y planificación de recursos en sistemas complejos.
