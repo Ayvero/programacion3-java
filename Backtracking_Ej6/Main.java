@@ -17,7 +17,7 @@ import java.util.List;
  * que en ellas no hab�a estado el caballo). Escriba un algoritmo que deduzca el
  * recorrido completo que hizo el caballo.
  * 
- * @author Gentil Ricardo
+ * 
  *
  */
 public class Main {
