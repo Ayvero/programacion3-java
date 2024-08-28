@@ -10,7 +10,7 @@ import java.util.ArrayList;
  * que cada n�mero sea igual a la suma de las casillas sobre las que est�
  * apoyado. Los n�meros de todas las casillas deben ser diferentes.
  * 
- * @author Gentil Ricardo
+ * 
  *
  */
 public class Backtracking {
