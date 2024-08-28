@@ -10,7 +10,7 @@ import java.util.List;
  * conectadas todas con todas, implemente un algoritmo que brinde una
  * aproximaci�n al problema del viajante
  * 
- * @author Gentil Ricardo
+ * 
  *
  */
 public class Viajante {
